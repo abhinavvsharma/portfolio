@@ -2,7 +2,7 @@
   <img alt="Logo" src="src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  [NVM](https://github.com/nvm-sh/nvm)
+  <a href="https://www.abhinavsharma.xyz/">abhinavsharma.xyz</a>
 </h1>
 
 ![demo](https://github.com/abhinavvsharma/portfolio/blob/3b962d6a37cef4196229d1ebf81dbd5bb49015eb/src/images/demo.png)
