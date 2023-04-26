@@ -266,7 +266,7 @@ const Projects = () => {
 //<Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>view the archive</Link>
   return (
     <StyledProjectsSection>
-      <h2 ref={revealTitle}>Patent and Peer-Reviewed Publications</h2>
+      <h2 ref={revealTitle}>Peer-Reviewed Publications</h2>
       <ul className="projects-grid">
         {prefersReducedMotion ? (
           <>
