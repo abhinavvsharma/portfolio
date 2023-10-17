@@ -66,9 +66,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I have 2+ years of experience as Machine Learning &amp; Computer Vision researcher and developer. Currently I am working as a Research Assistant
-        at{' '} <a href="http://www.pace.cs.stonybrook.edu/" target="_blank" rel="noreferrer">PACE Lab, Stony Brook University</a>. Additionally, I 
-        was a Research Intern at{' '} <a href="https://www.tifr.res.in/" target="_blank" rel="noreferrer">Tata Institute of Fundamental Research</a>.
+        I have 2+ years of experience as Machine Learning &amp; Computer Vision researcher and developer. Currently I am working as a Research Intern
+        at{' '} <a href="https://www.bell-labs.com/" target="_blank" rel="noreferrer">Nokia Bell Labs</a>. Additionally, I 
+        am a Research Assitant at{' '} <a href="http://www.pace.cs.stonybrook.edu/" target="_blank" rel="noreferrer">PACE Lab, Stony Brook University</a>.
       </p>
     </>
   );

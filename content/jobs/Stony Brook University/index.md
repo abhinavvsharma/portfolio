@@ -3,7 +3,7 @@ date: '2023-04-05'
 title: 'Research Assistant'
 company: 'PACE Lab, Stony Brook University'
 location: 'Stony Brook, NY'
-range: 'Jan 2023 - Present'
+range: 'Jan 2023 - May 2023'
 url: 'http://www.pace.cs.stonybrook.edu/'
 ---
 

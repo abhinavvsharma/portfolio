@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['PyTorch', 'TensorRT', 'Docker', 'Kubermetes', 'NVIDIA DeepStream', 'NVIDIA Jetson'];
+  const skills = ['PyTorch', 'TensorRT', 'Docker', 'Kubernetes', 'NVIDIA DeepStream', 'CUDA'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -142,11 +142,15 @@ const About = () => {
             </p>
 
             <p>
-            Currently, I'm a Research Assistant at{' '}<a href="http://www.pace.cs.stonybrook.edu/">PACE Lab</a> in Stony Brook University, where we focus on optimizations of Computer Vision and Machine Learning systems. My current project is centered on creating a "Decentralized Modular Video Analytics". The goal is to develop a Machine Learning on Edge system with a fast, memory-efficient low-level code to capture high-frequency, high-volume data and squeeze and pipeline compute across a variety of hardware processing units, distributed across multiple system-on-chips.
+            Currently, I'm a Research Intern at{' '}<a href="https://www.bell-labs.com/">Nokia Bell Labs</a> working on Efficient Deep Learning network optimizations like Structural Pruning, Inter-class Similarity and Image Scale guided Neural Network Selection.
             </p>
 
             <p>
-            Previously, I have worked for{' '}<a href="https://www.tifr.res.in/">TIFR</a> to develop a Gujarati Optical Character 
+            Previously, I was a Research Assistant at{' '}<a href="http://www.pace.cs.stonybrook.edu/">PACE Lab</a> in Stony Brook University, where we focus on optimizations of Computer Vision and Machine Learning systems. My project was centered on creating a "Decentralized Modular Video Analytics". The goal is to develop a Machine Learning on Edge system with a fast, memory-efficient low-level code to capture high-frequency, high-volume data and squeeze and pipeline compute across a variety of hardware processing units, distributed across multiple system-on-chips.
+            </p>
+
+            <p>
+            Additionally, I have worked for{' '}<a href="https://www.tifr.res.in/">TIFR</a> to develop a Gujarati Optical Character 
             Recognition model using character level segmentation, transfer-learning (EfficientNet B3) and a Bi-LSTM network to rectify 
             grammatical errors in recognized text.
             </p>
